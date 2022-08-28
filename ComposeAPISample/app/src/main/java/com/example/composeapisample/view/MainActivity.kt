@@ -1,4 +1,4 @@
-package com.example.composeapisample
+package com.example.composeapisample.view
 
 import android.os.Bundle
 import androidx.activity.ComponentActivity
