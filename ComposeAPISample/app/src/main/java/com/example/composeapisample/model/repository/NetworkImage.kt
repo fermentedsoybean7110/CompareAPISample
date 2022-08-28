@@ -6,5 +6,5 @@ import retrofit2.http.Url
  * ネットワークから読み込む画像を表すクラス
  */
 data class NetworkImage(
-    val url: Url,
+    val url: com.example.composeapisample.model.repository.Url,
 )
